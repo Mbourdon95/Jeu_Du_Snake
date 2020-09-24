@@ -48,9 +48,7 @@ from random import *
 
 ## Meta
 
-Your Name – Mbourdon.pro@gmail.com
-
-Distributed under the maxime license. See ``LICENSE`` for more information.
+Bourdon Maxime – Mbourdon.pro@gmail.com
 
 [https://github.com/Mbourdon95/github-link](https://github.com/Mbourdon95/)
 
