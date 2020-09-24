@@ -3,7 +3,7 @@
 
 Il s'agit D'un Jeu Snake, codé en Python.
 
-![](header.png)
+![Capture10](https://user-images.githubusercontent.com/71081511/94153172-bc7e1200-fe7c-11ea-9596-d74071e97f64.PNG)
 
 ## Accès
 
