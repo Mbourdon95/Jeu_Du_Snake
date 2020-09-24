@@ -1,9 +1,5 @@
 # Jeu_Du_Snake
-> Short blurb about what your product does.
-
-[![NPM Version][npm-image]][npm-url]
-[![Build Status][travis-image]][travis-url]
-[![Downloads Stats][npm-downloads]][npm-url]
+> Vous êtes un Serpent et vous avez faim, le but étant de ne pas se mordre la queue.
 
 Il s'agit D'un Jeu Snake, codé en Python.
 
@@ -34,6 +30,7 @@ from random import *
 
 * 0.3.0
     * ajout : Initialisation dans le Main()
+    * ajout : Du Contrôle Utilisateur.
 * 0.2.0
     * ajout : Add newGame();
 * 0.1.5
