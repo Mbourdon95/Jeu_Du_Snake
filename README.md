@@ -20,6 +20,7 @@ Windows:
 ## Setup Pour Le Developpement
 
 Il eut fallu, afin de mener à bien le projet, l'import de quelque bibliothèques, notamment pour développer aisément l'aspect graphique du jeu.
+La Bibliothèque Random pour faire du spawn pick aléatoire de la pomme par exemple.
 
 ```sh
 from tkinter import *
