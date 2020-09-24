@@ -45,6 +45,16 @@ from random import *
     * Fixation : Ajout D'une nouvelle sphère Au serpent après Eat de la pomme. 
 * 0.0.1
     * Ajout des Définitions de Event() : Re-Spawn des Pommes et Accélération du Serpent
+## Future Version 
+
+* 0.4.0
+    * ajout : Une Base De Donnée qui gère Les scores de chaque joueur.
+    avec un système classement.
+* 0.3.5
+    * ajout : Ajout des Collision sur les parties Du Serpent
+    * ajout : Revoir les Collisions sur la Pomme
+    
+
 
 ## Meta
 
