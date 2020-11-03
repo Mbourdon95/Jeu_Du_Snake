@@ -41,7 +41,7 @@ from random import *
 * addition: Definition of Snake, Apple, and Movement.
 * Fixation: Change Apple size, Collision bug.
 * 0.1.0
-* Premiere Version.
+* First Public Release.
 * Change: Rename Event() to Test()
 * Fixation: The Maximum Speed of the Snake.
 * Fixation: Add New Snake Sphere after Apple Eat.
