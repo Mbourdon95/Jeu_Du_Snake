@@ -1,60 +1,60 @@
-# Jeu_Du_Snake
-> Vous êtes un Serpent et vous avez faim, le but étant de ne pas se mordre la queue.
+# Snake_Game
+> You are a Snake and you are hungry, the goal is not to bite your tail.
 
-Il s'agit D'un Jeu Snake, codé en Python.
+This is a Snake Game, coded in Python.
 
 ![Capture10](https://user-images.githubusercontent.com/71081511/94153172-bc7e1200-fe7c-11ea-9596-d74071e97f64.PNG)
 
-## Accès
+## Access
 
 OS X & Linux:
-(Bientôt Disponible)
+(Coming soon)
 
 
 
 
 Windows:
-(Bientôt Disponible)
+(Coming soon)
 
 
-## Setup Pour Le Developpement
 
-Il eut fallu, afin de mener à bien le projet, l'import de quelque bibliothèques, notamment pour développer aisément l'aspect graphique du jeu.
-La Bibliothèque Random pour faire du spawn pick aléatoire de la pomme par exemple.
+## Setup For Development
+
+In order to carry out the project, it would have been necessary to import some libraries, in particular to easily develop the graphic aspect of the game.
+The Random Library to make random pick spawn of the apple for example.
 
 ```sh
 from tkinter import *
 from random import *
-```
+````
 
-## Historique
+## History
 
 * 0.3.0
-    * ajout : Initialisation dans le Main()
-    * ajout : Du Contrôle Utilisateur.
+* addition: Initialization in the Main()
+* addition: User Control.
 * 0.2.0
-    * ajout : Add newGame();
+* added: Add newGame();
 * 0.1.5
-    * ajout : Définition Des Event de Mouvement(Variable global)
+* addition: Definition Of Movement Events (Global Variable)
 * 0.1.1
-    * ajout : Définition du Serpent, de la Pomme, et des déplacement.
-    * Fixation : Changement Taille de la Pomme, bug de Collision.
+* addition: Definition of Snake, Apple, and Movement.
+* Fixation: Change Apple size, Collision bug.
 * 0.1.0
-    * Premiere Version.
-    * Changement: Renommer Event() en Test()
-    * Fixation : La Vitesse Maximale Du Serpent.
-    * Fixation : Ajout D'une nouvelle sphère Au serpent après Eat de la pomme. 
+* Premiere Version.
+* Change: Rename Event() to Test()
+* Fixation: The Maximum Speed of the Snake.
+* Fixation: Add New Snake Sphere after Apple Eat.
 * 0.0.1
-    * Ajout des Définitions de Event() : Re-Spawn des Pommes et Accélération du Serpent
-## Future Version 
+* Added Event() Definitions: Apple Re-spawn and Snake Acceleration
+## Future Version
 
 * 0.4.0
-    * ajout : Une Base De Donnée qui gère Les scores de chaque joueur.
-    avec un système classement.
+* addition: A Database that manages each player’s scores.
+with a filing system.
 * 0.3.5
-    * ajout : Ajout des Collision sur les parties Du Serpent
-    * ajout : Revoir les Collisions sur la Pomme
-    
+* Add: Add Collision on Snake Parts
+* addition: Review Collisions on the Apple
 
 
 ## Meta
